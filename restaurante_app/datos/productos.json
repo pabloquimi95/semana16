@@ -1,0 +1,47 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa clasica",
+        "precio": 4.5
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizza familiar",
+        "precio": 9.75
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Ensalada mixta",
+        "precio": 3.25
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Jugo natural",
+        "precio": 2.0
+    },
+    {
+        "codigo": "P005",
+        "nombre": "Moro Chicloso",
+        "precio": 7.5
+    },
+    {
+        "codigo": "P006",
+        "nombre": "Fioravanti",
+        "precio": 1.5
+    },
+    {
+        "codigo": "P007",
+        "nombre": "Polaca",
+        "precio": 0.5
+    },
+    {
+        "codigo": "P008",
+        "nombre": "Empana de queso",
+        "precio": 1.0
+    },
+    {
+        "codigo": "P009",
+        "nombre": "Pescador Frito",
+        "precio": 6.0
+    }
+]

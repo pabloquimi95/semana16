@@ -1,0 +1,23 @@
+[
+    {
+        "identificador": "U001",
+        "nombre": "Administrador",
+        "usuario": "admin",
+        "contraseña": "admin123",
+        "rol": "Administrador"
+    },
+    {
+        "identificador": "U002",
+        "nombre": "Cajera",
+        "usuario": "cajero",
+        "contraseña": "cajero123",
+        "rol": "Empleado"
+    },
+    {
+        "identificador": "U003",
+        "nombre": "Auditor",
+        "usuario": "auditor",
+        "contraseña": "auditor123",
+        "rol": "Empleado"
+    }
+]
